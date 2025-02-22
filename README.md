@@ -1,7 +1,8 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/7abe821a-6f70-423c-9a0d-35c48262c6d6">
+
 </picture>
 
 <table align="center">
