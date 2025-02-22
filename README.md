@@ -1,7 +1,8 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/7abe821a-6f70-423c-9a0d-35c48262c6d6">
+![98931642](https://github.com/user-attachments/assets/2b2d6727-d578-4a3e-ac54-59f065fd87b2)
+
 
 </picture>
 
