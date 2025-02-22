@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2b2d6727-d578-4a3e-ac54-59f065fd87b2">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2b2d6727-d578-4a3e-ac54-59f065fd87b2">
 <img alt="Mi foto" src="https://github.com/user-attachments/assets/2b2d6727-d578-4a3e-ac54-59f065fd87b2"> 
 
 
